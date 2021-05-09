@@ -1,1 +1,2 @@
-# DogBreedClassification
+# **IMAGE CLASSIFICATION: DOG BREED CLASSIFICATION**
+- I am updating it each day. 
